@@ -1,6 +1,6 @@
 # TP: Carrera de obstáculos
 
-## Repositorio de Sixto Gaspar Nahuel Franco - 108352 - sgfranco@fi.uba.ar
+## Repositorio de Sixto Gaspar Nahuel Franco
 
 - Para compilar:
 
